@@ -1,4 +1,4 @@
-## City BanNa Script 
+## Xnaya-Hub | CityBanNa Script 
 ```lua
 loadstring(game:HttpGet("https://bit.ly/3SZBBdR"))()
 ```
