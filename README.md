@@ -1,11 +1,11 @@
-## Xnaya-Hub V1 | CityBanNa Script 
+## Xnaya-Hub V1 ( Public ) | CityBanNa Script 
 ```lua
 loadstring(game:HttpGet("https://bit.ly/3SZBBdR"))()
 ```
 
-เข้า Discord ได้ที่ https://discord.gg/gYWAu8TDm9
+Join Discord https://discord.gg/PgDR8AjU2E
 
-### คุณสมบัติ
+### Script
 `AutoFarm`
 
 `AntiCheat`
@@ -15,3 +15,7 @@ loadstring(game:HttpGet("https://bit.ly/3SZBBdR"))()
 `Fps`
 
 `Rejoin`
+
+### Credit
+
+`Xnaya#5930 / A70_Guys#6858`
